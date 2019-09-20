@@ -1,8 +1,9 @@
 # Notas:
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
+Esta es una pequeña aplicación la cual va a hacer un crud de 'heroes' y mostrarlo con su respectiva interfas
 
-Recuerden que deben de reconstruir los módulos de node con el comando
+
+ejecutar el comando
 
 ```
 npm install
